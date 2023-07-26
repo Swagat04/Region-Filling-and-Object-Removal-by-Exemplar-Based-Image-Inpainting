@@ -1,8 +1,4 @@
-Names:
-M.S.R.Pavan Kumar  17EC35039
-Sanku Yogesh       17EC35020
-Sirish Gambhira    17EC35009
-B.Sai Manoj        17EC35007
+Swagata Naskar
 
 
 AssistedFreehand is used to get the mask, hold the left button to draw, and double click when completed
